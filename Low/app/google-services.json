@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1078109027407",
+    "firebase_url": "https://final-project-low.firebaseio.com",
+    "project_id": "final-project-low",
+    "storage_bucket": "final-project-low.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078109027407:android:26c0000f6d857ad2",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.huangf1.low"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078109027407-m1latulq2d1es87kf89dmbk0s4aod5dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCss_Lh49Baw1D48iKGt5s_YAOVYdGtwVw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
